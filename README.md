@@ -1,5 +1,9 @@
 # NC12-repo
-This is the repo for the IS project
+This REPO is an index containing our project source code.
 
-REPO ANDOIRD APP https://github.com/FedericaG03/LupusInCampus.git
-REPO SERVER https://github.com/AngeloAscione/lupus_in_campus.git
+# Linked REPOS
+
+| REPO | DESCRIPTION |
+| :--- | :---------- |
+| [ANDROID APP](https://github.com/FedericaG03/LupusInCampus.git) | This rapo contaions the source code for the android app client |
+| [SERVER](https://github.com/AngeloAscione/lupus_in_campus.git) | This repo contains the source code for the server |
