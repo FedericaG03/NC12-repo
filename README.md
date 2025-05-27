@@ -16,7 +16,7 @@ This repository serves as the **entry point** and index for the two core compone
 
 ## 🔧 Submodules Overview
 
-### 📱 Android App – `android-client/`
+### 📱 Android App
 
 The mobile client is built using **Java/Kotlin with Android SDK**, providing:
 
@@ -26,9 +26,7 @@ The mobile client is built using **Java/Kotlin with Android SDK**, providing:
 - Lobby management (public/private/local)
 - Match history and friend system
 
-📖 Detailed instructions: [android-client/README.md](./android-client/README.md)
-
-### 🛠️  Server – `backend-server/`
+### 🛠️  Server
 
 The backend uses **Java with Spring Boot**, managing:
 
@@ -37,8 +35,6 @@ The backend uses **Java with Spring Boot**, managing:
 - Game lifecycle (roles, turns, votes)
 - Chat and notification integration
 - Azure SQL/MySQL persistence
-
-📖 Detailed instructions: [backend-server/README.md](./backend-server/README.md)
 
 ---
 
